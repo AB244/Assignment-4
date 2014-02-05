@@ -153,4 +153,11 @@ display: block;
 float:none; 
 }
 
+#header{
+position: fixed;
+width:100%;
+height: 40px;
+
+}
+
 }/*End Small screen conversion*/
