@@ -103,4 +103,11 @@ display: none;
 
 }
 
+#aside{
+
+float: none;
+display: block;
+
+}
+
 }
