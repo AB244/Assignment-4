@@ -110,4 +110,20 @@ display: block;
 
 }
 
+#content{
+
+width: 100%;
+
+}
+
+body
+{
+margin-right:30px;
+}
+
+img{
+height:300px;
+width:300px;
+}
+
 }
